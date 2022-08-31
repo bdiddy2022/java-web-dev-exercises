@@ -2,6 +2,7 @@ package org.launchcode.java.demos.lsn7interfaces;
 
 import java.util.ArrayList;
 
+//See Step 1 in FlavorComparator
 public abstract class Ingredient {
     private String name;
     private double cost;
